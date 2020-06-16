@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rpph_alpha_3", "rpph_alpha_3\rpph_alpha_3.csproj", "{429264CF-2257-4305-9DBC-F350FD784F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{95ABC056-DC30-4189-866A-209CE1F30667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429264CF-2257-4305-9DBC-F350FD784F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429264CF-2257-4305-9DBC-F350FD784F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429264CF-2257-4305-9DBC-F350FD784F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429264CF-2257-4305-9DBC-F350FD784F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95ABC056-DC30-4189-866A-209CE1F30667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ABC056-DC30-4189-866A-209CE1F30667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ABC056-DC30-4189-866A-209CE1F30667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ABC056-DC30-4189-866A-209CE1F30667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {7C81A94D-B77C-4DD6-B15B-AC371A8DC957}
+	EndGlobalSection
+EndGlobal
